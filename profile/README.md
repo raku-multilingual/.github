@@ -1,5 +1,7 @@
 # Raku Multilingual Modules
 
+*"Programming should be accessible to everyone, in every language."*
+
 A collection of Raku programming language modules that provide native language support for programming in various languages. These modules allow developers to write Raku code using keywords, operators, and functions in their native language while maintaining full compatibility with standard Raku.
 
 ## Overview
@@ -15,35 +17,42 @@ The Raku Multilingual project enables programmers worldwide to code in their nat
 
 ### European Languages
 
-#### German (Deutsch)**
+#### English
+
+- **Repository**: [raku-english](https://github.com/raku-multilingual/raku-english)
+- **Module names**: `English`
+- **Features**: UK English keywords, operators, and functions (standard Raku with additional aliases)
+- **Example**: `if True { say("Hello World") }`
+
+#### German (Deutsch)
 
 - **Repository**: [raku-german](https://github.com/raku-multilingual/raku-german)
 - **Module names**: `German`, `Deutsch`
 - **Features**: German keywords, operators, and functions
 - **Example**: `wenn Wahr { sagen("Hallo Welt") }`
 
-#### Spanish (Español)**
+#### Spanish (Español)
 
 - **Repository**: [raku-spanish](https://github.com/raku-multilingual/raku-spanish)
 - **Module names**: `Spanish`, `Español`
 - **Features**: Spanish keywords, operators, and functions
 - **Example**: `si verdadero { decir("Hola Mundo") }`
 
-#### Portuguese (Português)**
+#### Portuguese (Português)
 
 - **Repository**: [raku-portuguese](https://github.com/raku-multilingual/raku-portuguese)
 - **Module names**: `Portuguese`, `Português`
 - **Features**: Portuguese keywords, operators, and functions
 - **Example**: `se verdadeiro { dizer("Olá Mundo") }`
 
-#### French (Français)**
+#### French (Français)
 
 - **Repository**: [raku-french](https://github.com/raku-multilingual/raku-french)
 - **Module names**: `French`, `Français`
 - **Features**: French keywords, operators, and functions
 - **Example**: `si vrai { dire("Bonjour le Monde") }`
 
-#### Russian (Русский)**
+#### Russian (Русский)
 
 - **Repository**: [raku-russian](https://github.com/raku-multilingual/raku-russian)
 - **Module names**: `Russian`, `Русский`
@@ -52,28 +61,28 @@ The Raku Multilingual project enables programmers worldwide to code in their nat
 
 ### Asian Languages
 
-#### Chinese (中文)**
+#### Chinese (中文)
 
 - **Repository**: [raku-chinese](https://github.com/raku-multilingual/raku-chinese)
 - **Module names**: `Chinese`, `中文`
 - **Features**: Simplified and Traditional Chinese support
 - **Example**: `如果 真 { 說("你好世界") }`
 
-#### Classical Chinese (文言)**
+#### Classical Chinese (文言)
 
 - **Repository**: [raku-classical-chinese](https://github.com/raku-multilingual/raku-classical-chinese)
 - **Module names**: `ClassicalChinese`, `文言`, `文言文`, `古文`, `漢文`
 - **Features**: Classical Chinese programming constructs
 - **Example**: `若 真 { 曰("天下太平") }`
 
-#### Japanese (日本語)**
+#### Japanese (日本語)
 
 - **Repository**: [raku-japanese](https://github.com/raku-multilingual/raku-japanese)
 - **Module names**: `Japanese`, `日本語`
 - **Features**: Japanese keywords, operators, and functions
 - **Example**: `もし 真 { 言う("こんにちは世界") }`
 
-#### Korean (한국어)**
+#### Korean (한국어)
 
 - **Repository**: [raku-korean](https://github.com/raku-multilingual/raku-korean)
 - **Module names**: `Korean`, `한국어`, `한글`
@@ -86,6 +95,7 @@ Each module can be installed using zef:
 
 ```bash
 # Install individual modules
+zef install English
 zef install German
 zef install Spanish
 zef install French
@@ -159,5 +169,3 @@ Danslav Slavenskoj
 - [Raku Modules Directory](https://modules.raku.org)
 
 ---
-
-*"Programming should be accessible to everyone, in every language."*
