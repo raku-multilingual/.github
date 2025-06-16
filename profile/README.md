@@ -4,6 +4,17 @@
 
 A collection of Raku programming language modules that provide native language support for programming in various languages. These modules allow developers to write Raku code using keywords, operators, and functions in their native language while maintaining full compatibility with standard Raku.
 
+[raku-english](https://github.com/raku-multilingual/raku-english)
+[raku-german](https://github.com/raku-multilingual/raku-german)
+[raku-spanish](https://github.com/raku-multilingual/raku-spanish)
+[raku-portuguese](https://github.com/raku-multilingual/raku-portuguese)
+[raku-french](https://github.com/raku-multilingual/raku-french)
+[raku-russian](https://github.com/raku-multilingual/raku-russian)
+[raku-chinese](https://github.com/raku-multilingual/raku-chinese)
+[raku-classical-chinese](https://github.com/raku-multilingual/raku-classical-chinese)
+[raku-japanese](https://github.com/raku-multilingual/raku-japanese)
+[raku-korean](https://github.com/raku-multilingual/raku-korean)
+
 ## Overview
 
 The Raku Multilingual project enables programmers worldwide to code in their native languages. Each module provides:
