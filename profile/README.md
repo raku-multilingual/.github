@@ -4,7 +4,7 @@
 
 A collection of Raku programming language modules that provide native language support for programming in various languages. These modules allow developers to write Raku code using keywords, operators, and functions in their native language while maintaining full compatibility with standard Raku.
 
-**Raku with raku-multilingual modules offers the most comprehensive polyglot programming experience of any programming language. Raku remains unique in having coordinated, comprehensive support for 10+ natural languages in a single ecosystem.** A polyglot programming language allows developers to write code using multiple natural languages within the same program or ecosystem. This goes beyond simple Unicode identifier support to include keywords, syntax, and programming constructs in different languages.
+**Raku with raku-multilingual modules offers the most comprehensive polyglot programming experience of any programming language.** A polyglot programming language allows developers to write code using multiple natural languages within the same program or ecosystem. This goes beyond simple Unicode identifier support to include keywords, syntax, and programming constructs in different languages. Raku remains unique in having coordinated, comprehensive support for 10+ natural languages in a single ecosystem.
 
 ## Overview
 
