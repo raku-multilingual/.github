@@ -22,7 +22,7 @@ The Raku Multilingual project enables programmers worldwide to code in their nat
 - Cultural programming conventions
 - Full Raku functionality in your language
 
-**Raku with raku-multilingual modules offers the most comprehensive polyglot programming experience of any programming language.** A polyglot programming language allows developers to write code using multiple natural languages within the same program or ecosystem. This goes beyond simple Unicode identifier support to include keywords, syntax, and programming constructs in different languages. Raku remains unique in having coordinated, comprehensive support for 10+ natural languages in a single ecosystem.
+A polyglot programming language allows developers to write code using multiple natural languages within the same program or ecosystem. This goes beyond simple Unicode identifier support to include keywords, syntax, and programming constructs in different languages. 
 
 ## Available Language Modules
 
